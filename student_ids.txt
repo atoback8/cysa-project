@@ -1,0 +1,5 @@
+Student Personal Information: 
+ Jan
+ 123456 
+ Alex 
+ 456789
